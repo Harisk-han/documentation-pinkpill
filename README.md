@@ -3,7 +3,7 @@
 This documentation outlines the complete system for the **Pinky Pink Pill Vetting Agent** — an AI-powered dating strategy chatbot built on Botpress, designed to help Black women navigate dating with clarity, strategy, and confidence.
 
 ---
-
+----
 ## Overview
 
 Pinky is a conversational AI agent that operates across four core modes — Vetting, Coaching, Exit, and Swirling — and dynamically adjusts depth of content based on a tiered progression system. The bot is deployed via web embed and runs entirely within Botpress.
