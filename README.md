@@ -1,4 +1,4 @@
-# Pinky — Pink Pill Vetting Agent
+# Pinky — Pocket Pinky Vetting Agent
 
 This documentation outlines the complete system for the **Pinky Pink Pill Vetting Agent** — an AI-powered dating strategy chatbot built on Botpress, designed to help Black women navigate dating with clarity, strategy, and confidence.
 
